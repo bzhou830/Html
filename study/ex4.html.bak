@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+
+  <select name="biradd">
+    <option value="beijing">-----请选择-----</option>
+	<option value="beijing">北京</option>
+	<option value="xiyatu">西雅图</option>
+	<option value="nanjing">南京</option>
+  </select>
+
+ <textarea cols="30" rows="10">
+ 请在这里输入
+ </textarea>
+
+ </body>
+</html>
